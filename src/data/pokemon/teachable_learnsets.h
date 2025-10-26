@@ -12424,6 +12424,7 @@ static const u16 sGrovyleTeachableLearnset[] = {
     MOVE_CUT,
     MOVE_DIG,
     MOVE_DOUBLE_TEAM,
+    MOVE_DRAGON_CLAW,
     MOVE_FACADE,
     MOVE_FLASH,
     MOVE_FOCUS_PUNCH,
